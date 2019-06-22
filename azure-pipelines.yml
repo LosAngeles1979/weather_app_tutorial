@@ -12,7 +12,7 @@ variables:
   azureSubscription: '1c0da430-0b41-4fef-b2e2-9844b047affe'
 
   # Web app name
-  webAppName: 'NodejsWeatherApp'
+  webAppName: 'QuickDraw100'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
